@@ -1,0 +1,30 @@
+.myIcon{display: inline-block;overflow: hidden;color: transparent;font-family: sans-serif;width: 16px;height: 16px;background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.glyphicon-user{background-image: url('../icons/user.png');}
+.glyphicon-shopping-cart{background-image: url('../icons/cart.png');}
+html {zoom: 0.9; -ms-zoom: 0.9; -webkit-zoom: 0.9}
+.bl {color: #5FB0E4}
+.white {color: #ffffff}
+.no-margin{margin: 0}
+.pointer {cursor: pointer}
+/** Header (home.jsp) **/
+.bg-header{background-color: #2b2d2e}
+/*.marginTop2{margin-top: 2px}*/
+/** Home page Default Pictures (default.jsp)**/
+.containerDefaultPictures {height: 650px}
+.paddingTop10 {padding-top: 10px}
+.div-img {height: 650px; background-position: center; background-size: cover; position: relative; background-color: #f5f5f5}
+/*.change-img {background-image: url('../img/big/SNOWSPORTS.jpg')}*/
+/** Home page Activities (activity.jsp)**/
+.containerActivity {min-height: 650px; padding-top: 10px}
+/** Menu (menu.jsp)**/
+.bg-menu{background-color: #EEEEEE}
+/** SubMenu (subMenu.jsp)**/
+.padding5 {padding: 5px}
+/** Product Catalog (subMenuItemCatalog.jsp)**/
+.productImages img {height: 150px; width: 150px}
+.margiTop20 {margin-top: 20px}
+.priceColor {color: #AF5700}
+.items li {border: 1px solid #c6c5c5; height: 300px; overflow: hidden; padding: 19px 7px; width: 220px; display: inline-block;margin: 2px}
+.btn-blue {background-color: #5FB0E4; color: #fff}
+.btn-blue:hover {color: lightgray}
+.btn-blue:focus {color: lightgray}

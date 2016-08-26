@@ -1,0 +1,31 @@
+html {zoom: 0.9; -ms-zoom: 0.9; -webkit-zoom: 0.9}
+/** Header Cart **/
+.myIcon{display: inline-block;overflow: hidden;color: transparent;font-family: sans-serif;width: 16px;height: 16px;background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.glyphicon-user{background-image: url('../icons/user.png');}
+.glyphicon-shopping-cart{background-image: url('../icons/cart.png');}
+.bl {color: #5FB0E4}/*used also for payment*/
+.no-margin{margin: 0}
+.bg-header{background-color: #2b2d2e}
+.white {color: #ffffff}
+/* Cart Name Line **/
+.nameLine{height: 52px; background-color: #eeeeee; margin-bottom: 40px; padding-top: 15px}/*used also for payment*/
+/** Cart Body **/
+.containerBody{min-height:692px} /*used also for payment*/
+/** Table **/
+table.cartTable{border-collapse: collapse; margin:10px auto}
+table.cartTable th, td{border:1px solid #c6c5c5; padding:6px; text-align: center}
+.blueTr{background-color: #5FB0E4; color: #fff}
+/** Input For Update **/
+.input-Blue{background-color: #5FB0E4; color: #fff}
+.marginBottom2{margin-bottom: 2px}
+/** Update Button **/
+.btn-blue {background-color: #5FB0E4; color: #fff}
+.btn-blue:hover {color: lightgray}
+.btn-blue:focus {color: lightgray}
+/** Payment Div **/
+.paymentDiv{margin:10px auto}
+/** Payment Button **/
+.payment{background-color: #5FB0E4; color: #fff;margin: 10px auto; max-width: 300px; text-align: center}
+.payment{border-radius: 2px; -webkit-border-radius: 2px; -moz-border-radius: 2px}
+.payment:hover,.payment:active{color: lightgray; text-decoration: none}
+
